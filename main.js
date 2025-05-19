@@ -1,1 +1,0 @@
-// No JS logic needed for static landing
